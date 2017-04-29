@@ -69,8 +69,6 @@ int main(int argc, char *argv[])
     MainWindow w;
     FileClient client;
     client.show();
-    //MyWidget w1;
-    //w1.show();
     w.show();
 
     return a.exec();
