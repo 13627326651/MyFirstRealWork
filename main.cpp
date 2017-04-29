@@ -62,6 +62,8 @@ static void createDb(){
 
 int main(int argc, char *argv[])
 {
+
+
     QApplication a(argc, argv);
     QTextCodec::setCodecForLocale(QTextCodec::codecForName("utf-8"));
     createDb();
