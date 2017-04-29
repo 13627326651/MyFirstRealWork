@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\mywidget.o
+./debug\tcpserver.o
+./debug\fileserver.o
+./debug\dbserver.o
+./debug\tcpsocket.o
+./debug\requestjson.o
+./debug\filerequestjson.o
+./debug\dbrequestjson.o
+./debug\responsejson.o
+./debug\moc_mainwindow.o
+./debug\moc_mywidget.o
+./debug\moc_tcpserver.o
+./debug\moc_tcpsocket.o
+);
